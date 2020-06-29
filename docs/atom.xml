@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title type="text">Hugo Theme MemE</title>
+    <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
+    <updated>2020-06-29T01:50:50-03:00</updated>
+    <id>https://katyushi.github.io/blog/</id>
+    <link rel="alternate" type="text/html" href="https://katyushi.github.io/blog/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://katyushi.github.io/blog/atom.xml" />
+    <author>
+            <name>Hugo Lazzari</name>
+            <uri>https://katyushi.github.io/</uri>
+            
+                <email>hugo.luiz@outlook.om</email>
+            </author>
+    <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
+    <generator uri="https://gohugo.io/" version="0.73.0">Hugo</generator>
+</feed>

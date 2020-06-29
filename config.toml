@@ -1,10 +1,11 @@
 ##########################################
 # Site Settings
 
-baseURL = "https://example.com/"
+baseURL = "https://katyushi.github.io/blog/"
 title = "Hugo Theme MemE"
 languageCode = "en"
 hasCJKLanguage = false
+publishDir = "docs"
 # Copyright information (Markdown supported)
 copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)"
 
@@ -25,7 +26,7 @@ pluralizeListTitles = false
 summaryLength = 42
 
 # Enable Emoji emoticons support?
-enableEmoji = false
+enableEmoji = true
 
 # Text to display for footnote return links
 footnoteReturnLinkContents = "↩"
@@ -94,17 +95,17 @@ uglyURLs = false
 # Author’s information
 [author]
     # Name
-    name = "reuixiy"
+    name = "Hugo Lazzari"
     # Email
-    email = "reuixiy@gmail.com"
+    email = "hugo.luiz@outlook.om"
     # Motto or introduction
-    motto = "Viva La Vida"
+    motto = "thanks for checking in i'm still a piece of garbage"
     # Avatar
     avatar = "/icons/apple-touch-icon.png"
     # Personal website, default: baseURL
-    website = "https://io-oi.me/"
+    website = "https://katyushi.github.io/"
     # Twitter
-    twitter = "reuixiy"
+    twitter = ""
 
 # Related content
 [related]
@@ -342,7 +343,7 @@ uglyURLs = false
     # Note: used for HTML head meta, JSON-LD,
     #       Open Graph, Atom, RSS
 
-    siteCreatedTime = "1969-07-20T20:17:43+00:00"
+    siteCreatedTime = "2018-07-20T20:17:43+00:00"
     # ATTENTION: keep this format, change
     #            the number
 
